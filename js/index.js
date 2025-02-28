@@ -1,6 +1,6 @@
 function page_load(){
 
-    const msgText = "# page4: page load"
+    const msgText = "# index: page load"
 
     console.log(msgText.toUpperCase())
 }
@@ -101,7 +101,7 @@ function giphyApiDemo1()
 
 function btnSearch(){
 
-  let msgText = "# page5: btnSearch" //string 
+  let msgText = "# index: btnSearch" //string 
   console.log(msgText.toUpperCase());  
 
   //select text field and display div using document.getElementById
@@ -262,7 +262,7 @@ function btnSearch(){
 
 function lnkClear(){
   
-  let msgText = "# page5: lnkClear"
+  let msgText = "# index: lnkClear"
   console.log(msgText.toUpperCase());
 
   //select text field and display div using document.getElementById
