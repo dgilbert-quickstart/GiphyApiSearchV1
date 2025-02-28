@@ -13,7 +13,7 @@
 .div-scroll-1 {
     /*desktop, tblet screens*/
     display: flex; /*adjust screen to any screen size*/
-    width: 500px;
+    width: 650px;
     word-wrap: break-word;
     overflow-x: hidden;
     overflow-y: auto;
