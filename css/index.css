@@ -33,6 +33,9 @@ media query - adjust screen based on screen width or height
 /*
 add google font 
 */
+.h2-style-1 {
+    font-family: "Sofia", sans-serif;
+}
 
 /*
 add scss - css compiler
