@@ -231,7 +231,7 @@ function btnSearch(){
             }
 
             _image = data.data[i].images.original.url;
-            _html += `<img width='100' height='100' src='${_image}' style='padding:5px'>`
+            _html += `<img width='200' height='200' src='${_image}' style='padding:5px'>`
             //display 3 images per row 
           }
           
