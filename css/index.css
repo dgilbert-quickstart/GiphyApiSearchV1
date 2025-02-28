@@ -11,6 +11,8 @@
 
 
 .div-scroll-1 {
+    /*desktop, tblet screens*/
+    display: flex; /*adjust screen to any screen size*/
     width: 400px;
 }
 
@@ -35,3 +37,23 @@ add google font
 /*
 add scss - css compiler
 */
+
+/*
+add media query for differtent screen sizes 
+*/
+/*
+@media only screen and (max-width: 450px) {
+*/
+
+/* when screen size is <= 350px - apply css code */
+@media only screen and (max-width: 350px) {
+    
+    /*mobile screen = screen size 350px */
+    .div-scroll-1 {
+        width: 200px;
+        background-color: rgb(109, 100, 160);
+    }
+        
+}
+
+
