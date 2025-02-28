@@ -11,10 +11,10 @@
 - javascript 
 
 # github code repositoty
-- https://github.com/
+- https://github.com/dgilbert-quickstart/GiphyApiSearchV1.git
 
 # github website url 
-- htpp://github.com/
+- https://dgilbert-quickstart.github.io/GiphyApiSearchV1/
 
 # future improvements 
 - item 1
